@@ -10,7 +10,7 @@ Simple WhatsApp Bot
 
 <p align="center">
   <a href="https://github.com/Akumayuki"><img src="http://readme-typing-svg.herokuapp.com?color=7FFF00&center=true&vCenter=true&multiline=false&lines=Simple+Whatsapp+Bot;Base+ori+by+Nurutomo;Give+star+and+forks+this+repo+:)" alt="UwU">
-</p>
+</p> 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LitRHap/wabot)
 # Chat sini kalo eror/ga paham
