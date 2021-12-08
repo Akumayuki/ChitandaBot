@@ -156,7 +156,11 @@ conn.logger.level = 'debug'
 
 ---------
 
-**THANKS TO:**
+ ### Thanks To:
+    
+    *Allah SWT*
+    *Orang Tua*
+    *dan..*
     
     [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
     [![LitRhap](https://github.com/LitRHap.png?size=100)](https://github.com/LitRHap)
