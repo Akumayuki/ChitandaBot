@@ -156,7 +156,7 @@ conn.logger.level = 'debug'
 
 ---------
 
-THANKS TO:
+### THANKS TO:
     [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
     [![LitRhap](https://github.com/LitRHap.png?size=100)](https://github.com/LitRHap)
-    [![Akumayuki](https://github.com/Akumayuki.png?v=4?size=100)](https://github.com/Akumayuki)
+    [![Akumayuki](https://github.com/Akumayuki.png?size=100)](https://github.com/Akumayuki)
