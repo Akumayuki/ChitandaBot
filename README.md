@@ -158,5 +158,5 @@ conn.logger.level = 'debug'
 
 THANKS TO:
     [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-    [![Nurutomo](https://github.com/LitRHap?size=100)](https://github.com/LitRHap)
-    [![Akumayuki](https://github.com/Akumayuki?v=4?size=100)](https://github.com/Akumayuki)
+    [![LitRhap](https://github.com/LitRHap.png?size=100)](https://github.com/LitRHap)
+    [![Akumayuki](https://github.com/Akumayuki.png?v=4?size=100)](https://github.com/Akumayuki)
